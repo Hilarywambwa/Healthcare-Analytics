@@ -63,6 +63,10 @@ The Power BI dashboard includes the following **KPIs** and **visualizations**, a
 - **Excel**: Source dataset stored in an Excel file.
 - **DAX**: Used for calculated columns (e.g., Length of Stay) and age group categorization.
 
+## Contact
+- Email: wambwahilary@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hilary-wambwa-288610355/
+
 Check it out
 
 ![image](https://github.com/user-attachments/assets/a12e2dca-8042-4a3d-a22b-983fae84766f)
